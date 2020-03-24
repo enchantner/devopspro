@@ -17,7 +17,7 @@ pipeline {
                 branch 'master'
             }
             steps {
-                println "building package"
+                println 'testing testing'
             }
         }
     }
