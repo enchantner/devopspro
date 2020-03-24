@@ -17,7 +17,7 @@ pipeline {
                 branch 'master'
             }
             steps {
-                println 'testing testing'
+                println 'test me baby one more time'
             }
         }
     }
